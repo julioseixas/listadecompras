@@ -1,0 +1,22 @@
+{
+  "itens": [
+    {
+      "id": "15f8",
+      "nome": "oi",
+      "categoria": "Alimentos",
+      "comprado": false
+    },
+    {
+      "id": "66dd",
+      "nome": "1221",
+      "categoria": "Alimentos",
+      "comprado": false
+    },
+    {
+      "id": "0f3d",
+      "nome": "carne",
+      "categoria": "Alimentos",
+      "comprado": false
+    }
+  ]
+}
